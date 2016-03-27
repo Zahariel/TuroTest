@@ -8,7 +8,7 @@ net.zag.paul.TuroTest is the executable. It's self-contained, so you should be a
 > cd bin
 > java net.zag.paul.TuroTest
 
-to run it. Note that Java 8 is required.
+to run it. Or of course you can import it as an Eclipse project. Note that Java 8 is required either way.
 
 Design Notes:
 
